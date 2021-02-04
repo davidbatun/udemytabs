@@ -1,5 +1,7 @@
 {
   "name": "udemytabs",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

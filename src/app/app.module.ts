@@ -15,3 +15,7 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent],
 })
 export class AppModule {}
+/**En providers falta
+ * StatusBar,
+ * SplashScreen
+ */
